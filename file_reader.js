@@ -49,7 +49,6 @@ function readFileContent(filePath) {
     }
   });
 }
-
 readFileContent("test-files/file1.txt");
 readFileContent("test-files/empty-file.txt");
 readFileContent("test-files/nonexistent-file.txt");
