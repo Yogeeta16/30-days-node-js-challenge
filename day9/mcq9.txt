@@ -1,5 +1,5 @@
 
-Which of the following are examples of node modules?
+Question == Which of the following are examples of node modules?
 
 a. Express
 
@@ -9,7 +9,7 @@ c. Socket.io
 
 d. All of the above
 
-Yes, all of the options (Express, Body-parser, and Socket.io) are examples of Node.js modules.
+Answer == Yes, all of the options (Express, Body-parser, and Socket.io) are examples of Node.js modules.
 
 --Express helps in building web applications by providing a framework with useful features.
 --Body-parser is a tool used with Express to handle data sent through HTTP requests, especially from forms.
